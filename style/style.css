@@ -1,0 +1,27 @@
+*{
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  background-image:url(../images/R.jfif);
+}
+
+.space{
+  padding: 50px;
+}
+
+#infos1 {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+#infos {
+  padding: 2rem;
+}
