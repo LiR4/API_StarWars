@@ -3,6 +3,15 @@
 
 <h1 align="center"> API StarWars </h1>
 
+<div align="center">
+  
+  ![Badge](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)<br>
+
+  ![Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+</div>
+
+
 ## 💻 O que foi utilizado ?
 <div style="display: inline_block" >
   - API SWAPI: https://swapi.dev/documentation <br>
